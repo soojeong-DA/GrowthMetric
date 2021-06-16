@@ -7,4 +7,4 @@
 <img src="./image/inflearn_growth_hacking_certificate2.PNG" width="300"> 
 
 ### 2. 책
-<img src="./image/book_growth_hacking.jpg" width="300">
+<img src="./image/book_growth_hacking.jpg" width="300" height="400">
