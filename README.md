@@ -1,8 +1,7 @@
 # :seedling: Growth Hacking
 
 ## 데이터와 실험을 통해 성장하는 서비스를 만드는 방법
-### 양승화님의 inflearn 강의와 책을 통해,
-### 그로스해킹에 대한 전반적인 이해와 방법론의 기초를 배울 수 있었다.
+### inflearn 강의와 책을 통해, 그로스해킹에 대한 전반적인 이해와 방법론의 기초를 배울 수 있었다.
 	- 그로스해킹의 개념 및 활용
 	- AARRR 기반의 핵심지표 정의 및 분석방법
 	- 데이터 수집과 분석을 위한 환경 구축
@@ -17,7 +16,6 @@
 - 1차: 5/22 ~ 5/26
 - 2차: 6/17 ~
 <img src="./image/inflearn_growth_hacking_header.PNG" width="300">
-<img src="./image/inflearn_growth_hacking_certificate2.PNG" width="300"> 
 
 ### 2. 책
 - 1차: 3/9 ~ 3/19
