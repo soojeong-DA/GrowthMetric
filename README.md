@@ -9,7 +9,7 @@
 	- 그로스팀 구성 및 성장을 위한 조직 문화
 
 - 배웠던 것을 복습하며, 주요 내용을 정리해 올리려고 한다.
-- 추가로, [데이콘 GA 데이터를 활용하여 주요 개념을 실습해보자!](https://github.com/ssujeong/User_Acquisition-Retention, "git repo link")
+- 추가로, [데이콘 GA 데이터를 활용하여 주요 개념을 실습함](https://github.com/ssujeong/User_Acquisition-Retention, "git repo link")
 
 ### 1. inflearn 강의
 - 1차: 5/22 ~ 5/26
