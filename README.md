@@ -13,11 +13,17 @@
 
 ### 1. inflearn 강의
 - 1차: 5/22 ~ 5/26
-- 2차: 6/17 ~
+- 2차: 6/17 ~ 7/6
 <img src="./image/inflearn_growth_hacking_header.PNG" width="300">
 
 ### 2. 책
 - 1차: 3/9 ~ 3/19
-- 2차: 6/17 ~
+- 2차: 6/17 ~ 7/6
 <img src="./image/book_growth_hacking.jpg" width="300" height="350">
+
+### 3. 그로스쿨 - 그로스해킹 실무자의 노하우와 인사이트를 담은 컨퍼런스
+- 7/7 ~
+
+### 4. 패스트캠퍼스 - A/B 테스트 관련 개념과 실습 강의
+- 7/7 ~
 
