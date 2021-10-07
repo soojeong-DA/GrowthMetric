@@ -9,7 +9,7 @@
 	- A/B Test 등 그로스해킹을 위한 다양한 방법론
 	- 그로스팀 구성 및 성장을 위한 조직 문화
 ```
-- 추가로, [데이콘 Google Analytics 데이터를 활용하여 주요 개념을 실습함](https://github.com/ssujeong/User_Acquisition-Retention)
+- 추가로, [데이콘 Google Analytics 데이터를 활용하여 주요 개념을 실습함](https://github.com/ssujeong/ToyProject/tree/master/%EC%9C%A0%EC%A0%80%20%ED%96%89%EB%8F%99%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%8B%9C%EA%B0%81%ED%99%94)
 
 ### 1-1. inflearn 강의 - 그로스해킹 (데이터와 실험을 통해 성장하는 서비스를 만드는 방법)
 - 1차: 5/22 ~ 5/26
