@@ -41,5 +41,5 @@
 - 2022.03.12 ~ 2022.03.26
 - 데이터 분석 실무자와 함께한 그로스 해킹 스터디
 - 직접 당근마켓 핵심 이벤트까지의 Uset Flow를 수립함
-- 당근마켓 관련 Output Metric이 매출인 Metric Hierarchy를 그려봄으로써, 관련 세부 input metric 연관성에 대한 이해를 높임
-- 문제상황 설정과 그에 따른 개선 action, A/B test를 설계함  
+- 당근마켓 Output Metric이 매출인 Metric Hierarchy를 그려봄으로써, 관련 Input Metric 연관성에 대한 이해를 높임
+- 문제 상황 설정, 그에 따른 개선 action과 A/B test를 설계함  
